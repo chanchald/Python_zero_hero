@@ -1,4 +1,4 @@
-# if else
+# if condition
 
 name = input("Enter Name:")
 
