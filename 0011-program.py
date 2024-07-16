@@ -2,7 +2,6 @@
 
 n = int(input("Enter Number:"))
 
-
 if n>1 and n<100:
     print("The number",n,"is in between 1 to 100")
 else:
