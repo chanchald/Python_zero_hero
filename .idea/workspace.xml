@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="733ccd0d-2e7c-4be1-acee-7ea061c1ba81" name="Changes" comment="hh" />
+    <list default="true" id="733ccd0d-2e7c-4be1-acee-7ea061c1ba81" name="Changes" comment="hh">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Changes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,27 +34,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.0012-program.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PDFTOSINGLEPDF.executor&quot;: &quot;Run&quot;,
-    &quot;Python.a3pagelayoutfolder-pdf.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.img.executor&quot;: &quot;Run&quot;,
-    &quot;Python.nopagelayout.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pdfmarge.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prog10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prog6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prog9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sum2number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sum_two_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Desktop/pythonLearner&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.0012-program.executor": "Run",
+    "Python.0018-program.executor": "Run",
+    "Python.PDFTOSINGLEPDF.executor": "Run",
+    "Python.a3pagelayoutfolder-pdf.executor": "Run",
+    "Python.file1.executor": "Run",
+    "Python.img.executor": "Run",
+    "Python.nopagelayout.executor": "Run",
+    "Python.pdfmarge.executor": "Run",
+    "Python.prog10.executor": "Run",
+    "Python.prog6.executor": "Run",
+    "Python.prog9.executor": "Run",
+    "Python.sum2number.executor": "Run",
+    "Python.sum_two_numbers.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/admin/Desktop/pythonLearner",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="PyDebuggerOptionsProvider">
     <option name="myDropIntoDebuggerOnFailedTests" value="true" />
   </component>
@@ -64,6 +68,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\admin\Desktop\pythonLearner" />
       <recent name="C:\Users\admin\Desktop\python learner" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\pythonLearner" />
     </key>
   </component>
   <component name="RunDashboard">
