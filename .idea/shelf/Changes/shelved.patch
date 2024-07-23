@@ -1,0 +1,18 @@
+Index: file1.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># breakb\r\njh,,,,,,,\r\nio:pip\r\n;;:jkmmmn
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/file1.py b/file1.py
+--- a/file1.py	(revision e42cf748939e6e450ee1ba5830e1698afd894554)
++++ b/file1.py	(date 1721225573458)
+@@ -1,4 +1,4 @@
+ # breakb
+ jh,,,,,,,
+ io:pip
+-;;:jkmmmn
+\ No newline at end of file
++;;:jkmmmnk
+\ No newline at end of file
